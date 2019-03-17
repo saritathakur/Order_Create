@@ -1,5 +1,6 @@
 // Call in installed dependencies
-const express = require('express');
+//const express = require('express');
+import express from 'express'
 // set up express app
 const app = express();
 // set up port number
